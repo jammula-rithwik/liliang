@@ -1,0 +1,46 @@
+# Gradle / build outputs
+.gradle/
+build/
+app/build/
+out/
+
+# Local SDK pointer (machine-specific path)
+local.properties
+
+# Font/asset working dirs (outputs in res/font ARE committed)
+.fonts-work/
+.venv/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Captures and profiling output
+captures/
+.cxx/
+
+# Keystores
+*.jks
+*.keystore
+
+# Dev database snapshots at the project root (may contain personal data)
+/workouts.db
+/workouts.db-shm
+/workouts.db-wal
+/workouts.db.bak
+/workouts.db.*.bak
+
+# font pipeline
+.venv/
+scripts/.fontcache/
+
+# Built APKs are published as GitHub release assets, not committed
+*.apk
+*.aab
+# Local agent/editor settings
+.claude/

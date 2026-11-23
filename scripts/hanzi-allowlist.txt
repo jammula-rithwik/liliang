@@ -1,0 +1,49 @@
+# Hanzi that must render in KUAN's own faces even if they never appear in
+# source or seed data. One block per line, comments with '#'. UI chrome,
+# stamps, watermarks, numerals, and likely future form/discipline names.
+
+# Dock + chrome (simplified forms for the brush face, traditional for serif)
+今曆历卷館馆設设
+# Stamps and moments
+印已成達达成正誌志記记
+# Watermarks / empty states
+休空無无始終终完
+# The hall
+武功夫門道場拳法形套路段級帶
+# Disciplines (current + plausible)
+太極陳楊氏詠春詠小念頭尋橋標指
+跆拳道散打泰擒拿柔術劍合氣
+少林洪紅長查華炮翻八卦形意心意
+氣功瑜伽導引站樁靜坐冥想呼吸吐納
+# Qigong sets
+八段錦易筋經五禽戲六字訣
+# Forms vocabulary
+老架一路二路新架器械刀槍棍扇
+太極拳劍推手單鞭雲手攬雀尾
+# Numbers & measure words
+一二三四五六七八九十百千零兩
+第式勢招動作個次組回合
+# Body / training words
+力重量肌筋骨氣血汗鐵墨紙
+鍛煉訓練修練習慣恆毅志
+強壯健康體能耐久速
+# Time
+年月日週期晨暮春夏秋冬
+# Quote-ish vocabulary (virtue/philosophy words common in MA mottos)
+德仁義禮智信勇敬謙和平靜
+水流山石木火土金風雷雲雨
+師徒學教傳承古今新舊長幼
+人生命運天地自然萬物本源
+不可以為之者也而其於是有無
+上下內外前後左右中正直曲
+柔剛虛實開合進退顧盼定
+慢快輕沉鬆緊圓方滿
+打踢肘膝摔投擲擋格閃避
+站立坐臥行走跑跳躍翻滾
+手足頭眼身腰腿步馬弓貓
+握抓推拉提按壓擠靠採挒
+呼吸調息意念專注放心神精
+# R22 Lìliàng: seal album, launch seal
+基好宗室朱灯破祥移突筑纹追
+# R22 guide chapter seals
+工问谢

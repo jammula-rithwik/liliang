@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+      All visuals live in Compose (design/InkTheme.kt). This XML theme exists
+      only to host window-level attributes: Lìliàng is ink on paper — the window
+      itself is the paper, edge to edge, always dark.
+    -->
+    <style name="Theme.Liliang" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B0A08</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+    </style>
+
+    <!-- Android 12+ system splash (and the androidx backport below that): the
+         力 seal on the black page, handing straight over to the in-app
+         ink-bloom reveal. -->
+    <style name="Theme.Liliang.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0B0A08</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_mark</item>
+        <item name="windowSplashScreenAnimationDuration">400</item>
+        <item name="postSplashScreenTheme">@style/Theme.Liliang</item>
+    </style>
+</resources>

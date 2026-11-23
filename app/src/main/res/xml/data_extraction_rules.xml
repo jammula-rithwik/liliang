@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Nothing leaves the device via OS backup: the DB is the single source of
+     training truth and restores must never be silent. allowBackup="false"
+     already disables it all; these rules document the decision for API 31+. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="root" path="." />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="root" path="." />
+    </device-transfer>
+</data-extraction-rules>
