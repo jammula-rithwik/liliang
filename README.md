@@ -11,7 +11,7 @@ The look is ink on paper: an OLED-black page, bone-white type, vermillion seals 
   <img src="docs/screenshots/hall.jpg" width="24%" alt="The Hall: the 36 Chambers path">
 </p>
 
-📘 **[The complete guide (PDF)](docs/Liliang-Guide.pdf)** covers every screen, the progression engine, the seals, backups, and building from source.
+⬇️ **[Download the APK](https://github.com/jammula-rithwik/liliang/releases/latest)** · 📘 **[The complete guide (PDF)](docs/Liliang-Guide.pdf)** covers every screen, the progression engine, the seals, backups, and building from source.
 
 ---
 
@@ -83,7 +83,7 @@ Achievements are carved seals, measured from history the app already keeps:
 
 Lìliàng runs on **Android 8.0 (API 26) and newer** and targets **Android 16 (API 36)**.
 
-1. Build the APK (see below). You can also take `Liliang-R<version>.apk` from this repository's Releases page, if one is published there.
+1. Download **`Liliang-R22.apk`** from the [latest release](https://github.com/jammula-rithwik/liliang/releases/latest), or build it yourself (see below).
 2. Copy it to your phone and open it. Android will ask you to allow installs from that source.
 3. Optional: if you used KUAN before, export its database in KUAN (Settings → Data & backup → Export database), then import it in Lìliàng (Settings → Data & backup → Choose file & import). The two apps install side by side; they do not share data automatically.
 
