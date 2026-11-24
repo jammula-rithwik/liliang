@@ -20,6 +20,7 @@ The look is ink on paper: an OLED-black page, bone-white type, vermillion seals 
 - [Features](#features)
 - [Screens at a glance](#screens-at-a-glance)
 - [The seal album](#the-seal-album-印谱)
+- [Sample plan: Home Kung Fu](#sample-plan-居家功夫-home-kung-fu)
 - [Install](#install)
 - [Build from source](#build-from-source)
 - [Run it in an emulator](#run-it-in-an-emulator)
@@ -78,6 +79,16 @@ Achievements are carved seals, measured from history the app already keeps:
 - **Earning one:** the seal stamps down full-screen with a burst of gold leaf. The stamp waits until a gym session or round timer is finished, so it never interrupts a set.
 - **Earned seals stay earned,** even after the rolling window that earned them moves on.
 - **Locked seals** appear as faint carved outlines, with a coloured arc tracing the border as you close in on them. Tap one for its story and progress.
+
+## Sample plan: 居家功夫 Home Kung Fu
+
+[`plans/home-kung-fu`](plans/home-kung-fu) is a ready-made 8-week programme for beginners, with no equipment, 5 days a week and about 45 minutes a session. It combines full-body bodyweight strength, Shaolin basics (the five stances, punches, kicks and the 五步拳 Wu Bu Quan form) and Tai Chi.
+
+- 📄 **[Home-Kung-Fu-Plan.pdf](plans/home-kung-fu/Home-Kung-Fu-Plan.pdf)**: the printable plan, with linked YouTube references from Shifu Yan Lei, Shi Heng Yi, Dr Paul Lam, David Bao and others.
+- 📥 **[ingest/](plans/home-kung-fu/ingest)**: Lìliàng folder-ingest files. Copy them to your phone, then in the app go to Settings › Data & backup › Folder ingest, choose the folder and tap **Ingest now**. You get 25 exercises, the Wu Bu Quan form in the Hall, 11 workouts and the plan, set as active.
+- 🛠 **[build_plan.py](plans/home-kung-fu/build_plan.py)** regenerates both from one source. Use `--start YYYY-MM-DD` to pick the first Monday.
+
+It doubles as a worked example of the ingest JSON format (`exercises.json`, `forms.json`, `workouts.json`, `schedule.json`).
 
 ## Install
 

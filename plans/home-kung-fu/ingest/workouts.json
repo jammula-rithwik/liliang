@@ -1,0 +1,464 @@
+{
+  "workouts": [
+    {
+      "name": "Home Strength A · Foundation",
+      "notes": "居家功夫 Home Kung Fu, Squat · push · hinge · pull · core. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Bodyweight Squat",
+          "sets": 3,
+          "reps": "10–15",
+          "restSeconds": 75,
+          "notes": "Sit between the heels, chest proud, knees track the toes. Video: IU Health Sports Performance, https://youtu.be/8uoaYwS6iFM"
+        },
+        {
+          "exercise": "Incline Pushups",
+          "sets": 3,
+          "reps": "6–12",
+          "restSeconds": 75,
+          "notes": "Hands on a sturdy table or bed. Body one straight plank. Video: Fit Father Project, https://youtu.be/CCZGD55NxGo"
+        },
+        {
+          "exercise": "Glute Bridge",
+          "sets": 3,
+          "reps": "12–15",
+          "restSeconds": 60,
+          "notes": "Drive through heels, squeeze glutes 1 s at the top."
+        },
+        {
+          "exercise": "Prone Y-T-W Raise",
+          "sets": 3,
+          "reps": "6 each letter",
+          "restSeconds": 60,
+          "notes": "Face down, thumbs up, lift arms into Y, T, W. Slow."
+        },
+        {
+          "exercise": "Plank",
+          "sets": 3,
+          "durationSeconds": 40,
+          "restSeconds": 45,
+          "notes": "Ribs down, glutes tight. Stop when the hips sag."
+        },
+        {
+          "exercise": "Dead Bug",
+          "sets": 3,
+          "reps": "6–10 / side",
+          "restSeconds": 45,
+          "notes": "Low back pressed to the floor the whole time."
+        }
+      ]
+    },
+    {
+      "name": "Home Strength B · Foundation",
+      "notes": "居家功夫 Home Kung Fu, Single leg · push · posterior chain · anti-rotation. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Reverse Lunge",
+          "sets": 3,
+          "reps": "6–10 / side",
+          "restSeconds": 75,
+          "notes": "Step back, both knees to 90°. Hold a wall if balance wobbles."
+        },
+        {
+          "exercise": "Knee Pushups",
+          "sets": 3,
+          "reps": "6–12",
+          "restSeconds": 75,
+          "notes": "From the knees, hips in line. Chest to fist-height off the floor. Video: Fit Father Project, https://youtu.be/CCZGD55NxGo"
+        },
+        {
+          "exercise": "Superman Hold",
+          "sets": 3,
+          "durationSeconds": 30,
+          "restSeconds": 60,
+          "notes": "Lift chest and legs a few cm. Long neck, eyes down."
+        },
+        {
+          "exercise": "Side Plank",
+          "sets": 3,
+          "durationSeconds": 30,
+          "restSeconds": 45,
+          "notes": "From knees at first; straight line head to knee."
+        },
+        {
+          "exercise": "Mountain Climbers",
+          "sets": 3,
+          "reps": "10–20 / side",
+          "restSeconds": 60,
+          "notes": "Slow and controlled; plank stays still."
+        },
+        {
+          "exercise": "Wall Slides",
+          "sets": 2,
+          "durationSeconds": 30,
+          "restSeconds": 30,
+          "notes": "Back and arms against the wall; slide up without arching."
+        }
+      ]
+    },
+    {
+      "name": "Home Strength C · Foundation",
+      "notes": "居家功夫 Home Kung Fu, Kung fu strength · legs · core · crawling. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Split Squat",
+          "sets": 3,
+          "reps": "6–10 / side",
+          "restSeconds": 75,
+          "notes": "Static lunge: drop straight down, back knee hovers."
+        },
+        {
+          "exercise": "Pushups",
+          "sets": 3,
+          "reps": "max − 2 (incline ok)",
+          "restSeconds": 90,
+          "notes": "Use the hardest version you can do for 5+ clean reps. Video: Fit Father Project, https://youtu.be/CCZGD55NxGo"
+        },
+        {
+          "exercise": "Horse Stance",
+          "sets": 3,
+          "durationSeconds": 60,
+          "restSeconds": 60,
+          "notes": "马步: feet 2 shoulder-widths, thighs toward parallel, back upright. Video: Shifu Yan Lei, https://youtu.be/T-m7-ikRIYI"
+        },
+        {
+          "exercise": "Bird Dog",
+          "sets": 3,
+          "reps": "6–8 / side",
+          "restSeconds": 45,
+          "notes": "Reach long; don't let the hips rotate."
+        },
+        {
+          "exercise": "Hollow Hold",
+          "sets": 3,
+          "durationSeconds": 30,
+          "restSeconds": 45,
+          "notes": "Tuck version: knees bent, low back flat."
+        },
+        {
+          "exercise": "Bear Crawl",
+          "sets": 3,
+          "durationSeconds": 20,
+          "restSeconds": 60,
+          "notes": "Knees 3 cm off the floor; small steps forward and back."
+        }
+      ]
+    },
+    {
+      "name": "Shaolin Basics · Foundation",
+      "discipline": "Shaolin Kung Fu",
+      "notes": "Stances, punches, kicks, stretch. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Five Stances Hold",
+          "sets": 3,
+          "durationSeconds": 20,
+          "restSeconds": 30,
+          "notes": "马步 horse · 弓步 bow · 虚步 empty · 仆步 drop · 歇步 crossed. Both sides where it applies. Video: Shifu Yan Lei, https://youtu.be/w-4n7cbNXZw"
+        },
+        {
+          "exercise": "Horse Stance Punches",
+          "sets": 3,
+          "reps": "20 alternating",
+          "restSeconds": 45,
+          "notes": "冲拳 from 马步: fist turns over at the end, other fist pulls to the hip. Video: Shaolin Temple UK, https://youtu.be/x56TN5EtNzg"
+        },
+        {
+          "exercise": "Bow Stance Punches",
+          "sets": 2,
+          "reps": "10 / side",
+          "restSeconds": 45,
+          "notes": "弓步冲拳: drive from the back heel through the hip. Video: Shaolin Temple UK, https://youtu.be/x56TN5EtNzg"
+        },
+        {
+          "exercise": "Front Stretch Kick",
+          "sets": 2,
+          "reps": "10 / leg",
+          "restSeconds": 30,
+          "notes": "正踢腿: straight leg swings up, toes pulled back. Walk the length of the room. Video: Wang Shifu, https://youtu.be/CZe5hDY-wwg"
+        },
+        {
+          "exercise": "Crescent Kicks",
+          "sets": 2,
+          "reps": "8 / leg each way",
+          "restSeconds": 30,
+          "notes": "外摆腿 outside / 里合腿 inside. Big, relaxed arc. Video: Master Song Kung Fu, https://youtu.be/H71OH6wGVVs"
+        },
+        {
+          "exercise": "Front Snap Kick",
+          "sets": 2,
+          "reps": "8 / leg",
+          "restSeconds": 30,
+          "notes": "弹腿: chamber the knee, snap the instep out, recoil. Video: Wang Shifu, https://youtu.be/CZe5hDY-wwg"
+        },
+        {
+          "exercise": "Horse Stance",
+          "sets": 1,
+          "reps": "max hold",
+          "notes": "Finisher. Write the time down. Video: Shifu Yan Lei, https://youtu.be/T-m7-ikRIYI"
+        },
+        {
+          "exercise": "Kung Fu Stretch",
+          "sets": 1,
+          "durationSeconds": 480,
+          "notes": "Hamstrings, hip flexors, butterfly, side splits. Easy breathing. Video: Warrior Martial Arts, https://youtu.be/UiO3WBOxUsc"
+        }
+      ]
+    },
+    {
+      "name": "Forms & Tai Chi · Foundation",
+      "discipline": "Shaolin Kung Fu",
+      "notes": "五步拳 then Tai Chi. 5 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Wu Bu Quan Practice",
+          "sets": 1,
+          "durationSeconds": 1200,
+          "notes": "五步拳. Learn 3 moves a week (see the skill track). Slow, then smooth. Video: David Bao, https://youtu.be/G3-Drrupfxo"
+        },
+        {
+          "exercise": "Tai Chi",
+          "sets": 1,
+          "durationSeconds": 1200,
+          "notes": "Dr Lam's beginner lesson: warm-up and qigong first, then movements 1–2. Video: Dr Paul Lam, Tai Chi Productions, https://youtu.be/hIOHGrYCEJ4"
+        }
+      ]
+    },
+    {
+      "name": "Home Strength A · Build",
+      "notes": "居家功夫 Home Kung Fu, Squat · push · hinge · pull · core. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Pause Squat",
+          "sets": 4,
+          "reps": "10–15",
+          "restSeconds": 75,
+          "notes": "2 s pause at the bottom. Add a backpack if 15 feels easy. Video: IU Health Sports Performance, https://youtu.be/8uoaYwS6iFM"
+        },
+        {
+          "exercise": "Pushups",
+          "sets": 4,
+          "reps": "5–12",
+          "restSeconds": 90,
+          "notes": "Full push-ups; back to incline for the last set if needed. Video: Calisthenicmovement, https://youtu.be/X7VxeubJSsA"
+        },
+        {
+          "exercise": "Single-Leg Glute Bridge",
+          "sets": 3,
+          "reps": "8–12 / side",
+          "restSeconds": 60,
+          "notes": "Hips stay level; other knee hugged to the chest."
+        },
+        {
+          "exercise": "Prone Y-T-W Raise",
+          "sets": 3,
+          "reps": "8 each letter",
+          "restSeconds": 60,
+          "notes": "Hold each top position 2 s."
+        },
+        {
+          "exercise": "Plank",
+          "sets": 3,
+          "durationSeconds": 60,
+          "restSeconds": 45,
+          "notes": "Add a shoulder tap every 5 s once 60 s is easy."
+        },
+        {
+          "exercise": "Dead Bug",
+          "sets": 3,
+          "reps": "10–12 / side",
+          "restSeconds": 45,
+          "notes": "Exhale fully as the arm and leg reach."
+        }
+      ]
+    },
+    {
+      "name": "Home Strength B · Build",
+      "notes": "居家功夫 Home Kung Fu, Single leg · push · posterior chain · anti-rotation. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Bulgarian Split Squat",
+          "sets": 3,
+          "reps": "6–10 / side",
+          "restSeconds": 90,
+          "notes": "Rear foot on a chair or sofa. Front shin near vertical."
+        },
+        {
+          "exercise": "Pushups",
+          "sets": 3,
+          "reps": "max − 2",
+          "restSeconds": 90,
+          "notes": "Stop two short of failure. Note the number each week. Video: Calisthenicmovement, https://youtu.be/X7VxeubJSsA"
+        },
+        {
+          "exercise": "Superman Hold",
+          "sets": 3,
+          "durationSeconds": 45,
+          "restSeconds": 60,
+          "notes": "Add a slow swim (arms Y → W) for the last 10 s."
+        },
+        {
+          "exercise": "Side Plank",
+          "sets": 3,
+          "durationSeconds": 45,
+          "restSeconds": 45,
+          "notes": "Full side plank from the feet."
+        },
+        {
+          "exercise": "Mountain Climbers",
+          "sets": 3,
+          "reps": "20–30 / side",
+          "restSeconds": 60,
+          "notes": "Pick up the pace while the hips stay level."
+        },
+        {
+          "exercise": "Wall Slides",
+          "sets": 2,
+          "durationSeconds": 45,
+          "restSeconds": 30
+        }
+      ]
+    },
+    {
+      "name": "Home Strength C · Build",
+      "notes": "居家功夫 Home Kung Fu, Kung fu strength · legs · core · crawling. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Cossack Squats",
+          "sets": 3,
+          "reps": "6–8 / side",
+          "restSeconds": 75,
+          "notes": "Side-to-side deep squat; builds the drop stance (仆步)."
+        },
+        {
+          "exercise": "Pushups",
+          "sets": 4,
+          "reps": "max − 2",
+          "restSeconds": 90,
+          "notes": "Try 1 set with hands narrow (diamond-ish). Video: Calisthenicmovement, https://youtu.be/X7VxeubJSsA"
+        },
+        {
+          "exercise": "Horse Stance",
+          "sets": 3,
+          "durationSeconds": 120,
+          "restSeconds": 60,
+          "notes": "Lower each week. Breathe slowly through the nose. Video: Shifu Yan Lei, https://youtu.be/T-m7-ikRIYI"
+        },
+        {
+          "exercise": "Bird Dog",
+          "sets": 3,
+          "reps": "8–10 / side",
+          "restSeconds": 45,
+          "notes": "Hold the reach 2 s."
+        },
+        {
+          "exercise": "Hollow Hold",
+          "sets": 3,
+          "durationSeconds": 45,
+          "restSeconds": 45,
+          "notes": "Straighten the legs as you get stronger."
+        },
+        {
+          "exercise": "Bear Crawl",
+          "sets": 3,
+          "durationSeconds": 40,
+          "restSeconds": 60,
+          "notes": "Add lateral crawls on the last set."
+        }
+      ]
+    },
+    {
+      "name": "Shaolin Basics · Build",
+      "discipline": "Shaolin Kung Fu",
+      "notes": "Stances, punches, kicks, stretch. 7 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Five Stances Hold",
+          "sets": 3,
+          "durationSeconds": 30,
+          "restSeconds": 30,
+          "notes": "Lower stances. Flow from one to the next without standing up. Video: Shifu Yan Lei, https://youtu.be/w-4n7cbNXZw"
+        },
+        {
+          "exercise": "Horse Stance Punches",
+          "sets": 3,
+          "reps": "30 alternating",
+          "restSeconds": 45,
+          "notes": "Last 10 at speed; keep the stance still. Video: Shaolin Temple UK, https://youtu.be/x56TN5EtNzg"
+        },
+        {
+          "exercise": "Bow Stance Punches",
+          "sets": 3,
+          "reps": "12 / side",
+          "restSeconds": 45,
+          "notes": "Exhale sharply on each punch. Video: Shaolin Temple UK, https://youtu.be/x56TN5EtNzg"
+        },
+        {
+          "exercise": "Front Stretch Kick",
+          "sets": 3,
+          "reps": "12 / leg",
+          "restSeconds": 30,
+          "notes": "Height comes from flexibility, not momentum. Video: Wang Shifu, https://youtu.be/CZe5hDY-wwg"
+        },
+        {
+          "exercise": "Crescent Kicks",
+          "sets": 2,
+          "reps": "10 / leg each way",
+          "restSeconds": 30,
+          "notes": "Video: Master Song Kung Fu, https://youtu.be/H71OH6wGVVs"
+        },
+        {
+          "exercise": "Front Snap Kick",
+          "sets": 3,
+          "reps": "10 / leg",
+          "restSeconds": 30,
+          "notes": "Add a punch with the kick: 弹踢冲拳 from Wu Bu Quan. Video: Wang Shifu, https://youtu.be/CZe5hDY-wwg"
+        },
+        {
+          "exercise": "Horse Stance",
+          "sets": 1,
+          "reps": "max hold",
+          "notes": "Target: 2 minutes by week 8. Video: Shifu Yan Lei, https://youtu.be/T-m7-ikRIYI"
+        },
+        {
+          "exercise": "Kung Fu Stretch",
+          "sets": 1,
+          "durationSeconds": 480,
+          "notes": "Video: Warrior Martial Arts, https://youtu.be/UiO3WBOxUsc"
+        }
+      ]
+    },
+    {
+      "name": "Forms & Tai Chi · Build",
+      "discipline": "Shaolin Kung Fu",
+      "notes": "五步拳 then Tai Chi. 5 min warm-up first.",
+      "items": [
+        {
+          "exercise": "Wu Bu Quan Practice",
+          "sets": 1,
+          "durationSeconds": 1200,
+          "notes": "Whole form, both directions, 5–8 times. Film one run in week 8. Video: Shi Heng Yi Online, https://youtu.be/2F_4JKcmPX0"
+        },
+        {
+          "exercise": "Tai Chi",
+          "sets": 1,
+          "durationSeconds": 1200,
+          "notes": "Continue Dr Lam's beginner series, one new movement a week. Video: Dr Paul Lam, Tai Chi Productions, https://www.youtube.com/playlist?list=PLMypbNPFKGgRcuiKMpj79cE-VHP4I2zhB"
+        }
+      ]
+    },
+    {
+      "name": "Ba Duan Jin (optional)",
+      "discipline": "Qigong",
+      "notes": "Rest-day qigong.",
+      "items": [
+        {
+          "exercise": "Ba Duan Jin",
+          "sets": 1,
+          "durationSeconds": 1200,
+          "notes": "Optional on rest days. Gentle; leave refreshed, not tired. Video: Shi Heng Yi Online, https://youtu.be/UpN3AcXLSSk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "exercises": [
+    {
+      "name": "Bodyweight Squat",
+      "muscle": "Legs",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Pause Squat",
+      "muscle": "Legs",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Incline Pushups",
+      "muscle": "Chest",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Knee Pushups",
+      "muscle": "Chest",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Glute Bridge",
+      "muscle": "Glutes",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Single-Leg Glute Bridge",
+      "muscle": "Glutes",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Prone Y-T-W Raise",
+      "muscle": "Back",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Dead Bug",
+      "muscle": "Abs",
+      "category": "Core",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Reverse Lunge",
+      "muscle": "Legs",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Split Squat",
+      "muscle": "Legs",
+      "category": "Strength",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Superman Hold",
+      "muscle": "Back",
+      "category": "Core",
+      "logFormat": "seconds",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Side Plank",
+      "muscle": "Abs",
+      "category": "Core",
+      "logFormat": "seconds",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Mountain Climbers",
+      "muscle": "Abs",
+      "category": "Conditioning",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Bird Dog",
+      "muscle": "Abs",
+      "category": "Core",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Hollow Hold",
+      "muscle": "Abs",
+      "category": "Core",
+      "logFormat": "seconds",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Bear Crawl",
+      "muscle": "Full-Body",
+      "category": "Conditioning",
+      "logFormat": "seconds",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Five Stances Hold",
+      "muscle": "Legs",
+      "category": "Martial Arts",
+      "logFormat": "seconds",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Horse Stance Punches",
+      "muscle": "Full-Body",
+      "category": "Martial Arts",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Bow Stance Punches",
+      "muscle": "Full-Body",
+      "category": "Martial Arts",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Front Stretch Kick",
+      "muscle": "Legs",
+      "category": "Martial Arts",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Crescent Kicks",
+      "muscle": "Legs",
+      "category": "Martial Arts",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Front Snap Kick",
+      "muscle": "Legs",
+      "category": "Martial Arts",
+      "logFormat": "reps",
+      "bodyweight": true,
+      "perSide": true
+    },
+    {
+      "name": "Kung Fu Stretch",
+      "muscle": "Full-Body",
+      "category": "Mobility",
+      "logFormat": "minutes",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Wu Bu Quan Practice",
+      "muscle": "Full-Body",
+      "category": "Martial Arts",
+      "logFormat": "minutes",
+      "bodyweight": true,
+      "perSide": false
+    },
+    {
+      "name": "Ba Duan Jin",
+      "muscle": "Full-Body",
+      "category": "Martial Arts",
+      "logFormat": "minutes",
+      "bodyweight": true,
+      "perSide": false
+    }
+  ]
+}

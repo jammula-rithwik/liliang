@@ -1,0 +1,334 @@
+{
+  "plans": [
+    {
+      "name": "居家功夫 Home Kung Fu · 8 weeks",
+      "startDate": "2026-11-30",
+      "weeks": 8,
+      "active": true,
+      "repeatWeekly": false,
+      "useEngine": false,
+      "days": [
+        {
+          "week": 1,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Foundation"
+        },
+        {
+          "week": 1,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Foundation"
+        },
+        {
+          "week": 1,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Foundation"
+        },
+        {
+          "week": 1,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 1,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Foundation"
+        },
+        {
+          "week": 1,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Foundation"
+        },
+        {
+          "week": 1,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 2,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Foundation"
+        },
+        {
+          "week": 2,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Foundation"
+        },
+        {
+          "week": 2,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Foundation"
+        },
+        {
+          "week": 2,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 2,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Foundation"
+        },
+        {
+          "week": 2,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Foundation"
+        },
+        {
+          "week": 2,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 3,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Foundation"
+        },
+        {
+          "week": 3,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Foundation"
+        },
+        {
+          "week": 3,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Foundation"
+        },
+        {
+          "week": 3,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 3,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Foundation"
+        },
+        {
+          "week": 3,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Foundation"
+        },
+        {
+          "week": 3,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 4,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Foundation"
+        },
+        {
+          "week": 4,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Foundation"
+        },
+        {
+          "week": 4,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Foundation"
+        },
+        {
+          "week": 4,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 4,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Foundation"
+        },
+        {
+          "week": 4,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Foundation"
+        },
+        {
+          "week": 4,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 5,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Build"
+        },
+        {
+          "week": 5,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Build"
+        },
+        {
+          "week": 5,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Build"
+        },
+        {
+          "week": 5,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 5,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Build"
+        },
+        {
+          "week": 5,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Build"
+        },
+        {
+          "week": 5,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 6,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Build"
+        },
+        {
+          "week": 6,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Build"
+        },
+        {
+          "week": 6,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Build"
+        },
+        {
+          "week": 6,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 6,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Build"
+        },
+        {
+          "week": 6,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Build"
+        },
+        {
+          "week": 6,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 7,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Build"
+        },
+        {
+          "week": 7,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Build"
+        },
+        {
+          "week": 7,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Build"
+        },
+        {
+          "week": 7,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 7,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Build"
+        },
+        {
+          "week": 7,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Build"
+        },
+        {
+          "week": 7,
+          "day": "sun",
+          "label": "Rest"
+        },
+        {
+          "week": 8,
+          "day": "mon",
+          "label": "Strength A",
+          "workout": "Home Strength A · Build"
+        },
+        {
+          "week": 8,
+          "day": "tue",
+          "label": "Shaolin Basics",
+          "workout": "Shaolin Basics · Build"
+        },
+        {
+          "week": 8,
+          "day": "wed",
+          "label": "Strength B",
+          "workout": "Home Strength B · Build"
+        },
+        {
+          "week": 8,
+          "day": "thu",
+          "label": "Rest · optional Ba Duan Jin"
+        },
+        {
+          "week": 8,
+          "day": "fri",
+          "label": "Strength C",
+          "workout": "Home Strength C · Build"
+        },
+        {
+          "week": 8,
+          "day": "sat",
+          "label": "Forms & Tai Chi",
+          "workout": "Forms & Tai Chi · Build"
+        },
+        {
+          "week": 8,
+          "day": "sun",
+          "label": "Rest"
+        }
+      ]
+    }
+  ]
+}

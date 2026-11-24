@@ -1,0 +1,63 @@
+{
+  "forms": [
+    {
+      "id": "shaolin_wu_bu_quan",
+      "title": "五步拳 Wu Bu Quan",
+      "subtitle": "Five Stance Fist · the classic first form",
+      "discipline": "Shaolin Kung Fu",
+      "shortTitle": "Wu Bu Quan",
+      "moves": [
+        {
+          "index": 1,
+          "name": "预备势 · 并步抱拳 · Ready: feet together, fists at the hips",
+          "section": "Form"
+        },
+        {
+          "index": 2,
+          "name": "弓步冲拳 · Bow stance punch",
+          "section": "Form"
+        },
+        {
+          "index": 3,
+          "name": "弹踢冲拳 · Snap kick with punch",
+          "section": "Form"
+        },
+        {
+          "index": 4,
+          "name": "马步架打 · Horse stance block and punch",
+          "section": "Form"
+        },
+        {
+          "index": 5,
+          "name": "歇步盖打 · Crossed stance cover and punch",
+          "section": "Form"
+        },
+        {
+          "index": 6,
+          "name": "提膝穿掌 · Knee raise, piercing palm",
+          "section": "Form"
+        },
+        {
+          "index": 7,
+          "name": "仆步穿掌 · Drop stance, piercing palm",
+          "section": "Form"
+        },
+        {
+          "index": 8,
+          "name": "虚步挑掌 · Empty stance, lifting palm",
+          "section": "Form"
+        },
+        {
+          "index": 9,
+          "name": "并步对拳 · Feet together, fists meet",
+          "section": "Form"
+        },
+        {
+          "index": 10,
+          "name": "还原 · Close: return to ready",
+          "section": "Form"
+        }
+      ]
+    }
+  ]
+}

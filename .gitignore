@@ -44,3 +44,6 @@ scripts/.fontcache/
 *.aab
 # Local agent/editor settings
 .claude/
+
+# Python caches
+__pycache__/
